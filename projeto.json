@@ -1,0 +1,25 @@
+{
+  "title": "infowars",
+  "description": "Um site que utiliza a API do Star Wars para trazer informações sobre os filmes, naves e planetas.",
+  "repository": "https://github.com/taysamendes/Info-Wars",
+  "course": "cstsi",
+  "session": "2018.1",
+  "subject": "ls",
+  "campus": "João Pessoa",
+  "topics": [
+    "js"
+  ],
+  "owners": [
+    {
+      "id": "20161370020",
+      "name": "Taysa Mendes",
+      "id": "20161370013",
+      "name": "Mayara Gomes",
+      "id": "20161370018",
+      "name": "Joseph Adrian",
+      "github": "https://github.com/taysamendes",
+      "github": "https://github.com/Josephadrian123",
+      "github": "https://github.com/maygp
+    }
+  ]
+}
